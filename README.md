@@ -1,33 +1,104 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# Scenario-Based Report Development Using Diverse Prompting Techniques  
+**Experiment No.: 3**  
+**Date:** 14.10.2025  
+**Register Number:** 212222060073  
 
-### DATE: 16-08-2025                                                                         
-### REGISTER NUMBER : 212222060073
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+---
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
-    - 	"List three advantages of electric vehicles."
+## **Aim**
+To demonstrate four prompt engineering types—**Straightforward Prompts, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting**—for a chosen use case from *Modulation Techniques for Multimedia Signals*, and evaluate them using Tabular Format Prompting.
 
- 3.	Tabular Format Prompting:
-     •	"Compare and contrast AC and DC current in a table."
-     •	"Provide a table listing five programming languages, their paradigms, and one use case each."
-3. Preceding Question Prompting:
-    •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
-    •	"How do vaccines work? Describe the process of immunization in simple terms."
-4. Missing Word Prompting:
-   •	"The capital of France is ____."
-  •	"In photosynthesis, plants absorb sunlight to produce ____."
+---
 
+## **Use Cases for All Prompt Types**
+1. **Straightforward Prompts**  
+   Useful for quick revision of basic modulation concepts before an exam.
 
-### Conclusion 
+2. **Tabular Format Prompting**  
+   Best for structured comparison of AM, FM, and QPSK techniques.
 
+3. **Preceding Question Prompting**  
+   Helps in understanding *why* modulation is needed and *how* techniques like QPSK/FM solve communication problems.
 
-Result: The various types of Prompts are executed successfully with generated the report.
+4. **Missing Word Prompting**  
+   Suitable for recall-based practice or fill-in-the-blank exam questions.
 
+---
 
+# **1. Straightforward Prompts**
 
+### **Prompt 1:**  
+Define modulation in one sentence.  
+**Response:** Modulation is the process of varying a carrier signal to transmit information efficiently.
 
-# Result: Thus the Prompts were exected succcessfully.
+### **Prompt 2:**  
+List three modulation techniques used in satellite communication.  
+**Response:** Amplitude Modulation (AM), Frequency Modulation (FM), and Quadrature Phase Shift Keying (QPSK).
 
+---
+
+# **2. Tabular Format Prompting**
+
+### **Prompt 1:**  
+Provide a table comparing AM, FM, and QPSK in terms of signal quality, bandwidth, and application.
+
+| Modulation | Signal Quality | Bandwidth Requirement | Application |
+|-----------|----------------|------------------------|-------------|
+| AM | Poor (noise sensitive) | Low | Voice transmission |
+| FM | Good, less noise | Medium | Radio & TV broadcast |
+| QPSK | High, robust | High | Digital TV, satellite multimedia |
+
+### **Prompt 2:**  
+Table showing advantages and disadvantages of QPSK.
+
+| Advantages of QPSK | Disadvantages of QPSK |
+|--------------------|------------------------|
+| High spectral efficiency | Requires complex receiver |
+| Better noise immunity | More prone to phase errors |
+| Suitable for multimedia | Needs higher bandwidth |
+
+---
+
+# **3. Preceding Question Prompting**
+
+### **Prompt 1:**  
+Why is modulation necessary in satellite communication? How does QPSK help?
+
+**Response:**  
+- Modulation enables long-distance transmission, reduces interference, and uses bandwidth efficiently.  
+- QPSK transmits 2 bits per symbol, improving data rate and reliability for multimedia.
+
+### **Prompt 2:**  
+How does FM provide better quality than AM?
+
+**Response:**  
+- FM is less sensitive to amplitude noise.  
+- Ensures better audio/video quality in satellite systems.
+
+---
+
+# **4. Missing Word Prompting**
+
+### **Prompt 1:**  
+“In satellite communication, modulation is used to improve ____.”  
+**Response:** Transmission efficiency.
+
+### **Prompt 2:**  
+“QPSK modulation encodes ____ bits per symbol.”  
+**Response:** 2 bits.
+
+---
+
+# **Evaluation & Conclusion**
+
+| Prompt Type | Use Case Scenario | Strengths | Limitations | Result |
+|-------------|-------------------|-----------|-------------|--------|
+| Straightforward Prompt | Quick revision before exam | Simple, fast recall | Lacks details | Best for memory refresh |
+| Tabular Format Prompt | Compare AM, FM, QPSK | Structured, clear | Needs prior understanding | Best for detailed comparison |
+| Preceding Question Prompt | Understanding "why" & "how" | Encourages reasoning | Can be lengthy | Best for conceptual clarity |
+| Missing Word Prompt | Exam recall practice | Good for assessment | Limited depth | Best for quick recall |
+
+---
+
+### **Result:**  
+All four prompt types were executed successfully.
